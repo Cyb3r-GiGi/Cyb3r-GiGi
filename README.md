@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cyb3r-GiGi
 - 👀 I’m interested in cybersecurity and want to become a cybersecurity analyst 
-- 🌱 I’m currently learning python working on applied cryptography labs
+- 🌱 I’m currently learning python and working on applied cryptography labs
 - 💞️ I’m looking to collaborate on anything CTF related
 - 📫 How to reach me ... call me beep me 
 
