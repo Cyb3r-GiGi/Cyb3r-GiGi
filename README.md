@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python working on applied cryptography labs
 - 💞️ I’m looking to collaborate on anything CTF related
 - 📫 How to reach me ... call me beep me 
-- 😄 Pronouns: ... She/Her
+
 - ⚡ Fun fact: ... I am obsessed with anime and books
 
 <!---
